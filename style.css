@@ -26,13 +26,13 @@ header {
     font-size: 28px;
 }
 
+
 section {
     padding: 20px;
-    background-image:url(../desafio_workshop/desafioworksho1.jpg) ;
-    box-sizing: cover;
+    background-image: url("./desafioworksho1.jpg");
+    background-size: cover;
     overflow: hidden;
 }
-
 .formcontainer {
     max-width: 230px;
     background-color: #ffffffbb;
